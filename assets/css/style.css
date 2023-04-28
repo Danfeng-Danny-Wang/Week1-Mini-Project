@@ -6,3 +6,15 @@ header {
   background-color: darkgreen;
   padding-bottom: 10 px;
 }
+
+#nav {
+}
+
+.nav-list {
+  display: inline;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
