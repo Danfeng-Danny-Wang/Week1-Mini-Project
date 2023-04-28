@@ -1,3 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  font-family: garamond, sans-serif;
+  font-size: 20px;
+  background-color: white;
+}
+
 h1 {
   color: blue;
 }
@@ -17,4 +29,8 @@ header {
 img {
   width: 400px;
   height: 300px;
+}
+
+.text-right {
+  text-align: right;
 }
